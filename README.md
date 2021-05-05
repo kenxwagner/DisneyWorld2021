@@ -8,7 +8,7 @@ Rental tips.
 
 <meta charset="UTF-8" />
 
-<title>My Disney World Vacation 2021</title>
+My Disney World Vacation 2021
 
 
 </head>
