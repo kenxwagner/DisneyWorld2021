@@ -1,5 +1,5 @@
 # DisneyWorld2021
-My visit and tips for Walt Disney World
+My visit and tips for Walt Disney World vacations.
 Avoid high resort fees. 
 
 Rental tips.
