@@ -23,7 +23,7 @@ from Washington State joined the
 the most magical place on earth!
 
 </div>
-
+We stayed at Parkway International Resort.
 </body>
 
 </html>
