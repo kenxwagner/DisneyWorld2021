@@ -23,7 +23,7 @@ from Washington State joined the
 the most magical place on earth!
 
 </div>
-We stayed at Parkway International Resort.
+We stayed at Parkway International Resort. We had 2 bedrooms, two full bathrooms, a full kitchen and a washer and dryer.
 </body>
 
 </html>
