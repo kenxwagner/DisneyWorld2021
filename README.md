@@ -1,5 +1,5 @@
 Disney World
-My visit and tips for Walt Disney World vacations.
+My visit and tips for Walt Disney World Vacations.
 Avoid high resort fees. 
 
 Rental tips.
