@@ -17,13 +17,10 @@ My Disney World Family Vacation 2021
 
 <div id="example"> 
 
-In April of 2021, a family of four 
-from Washington State joined the
- thousands of Disney lovers who arrived at 
-the most magical place on earth!
+In April of 2021, a family of four from Washington State joined the thousands of Disney lovers who arrived at the most magical place on earth!
 
 </div>
-We stayed at Parkway International Resort. We had 2 bedrooms, two full bathrooms, a full kitchen and a washer and dryer.
+We stayed at Parkway International Resort. We had 2 bedrooms, two full bathrooms, a full kitchen and a washer and dryer. The drive to Disney parking was 10-12 minutes.
 </body>
 
 </html>
